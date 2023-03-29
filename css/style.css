@@ -4,6 +4,11 @@
     background: linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+
+.Encabezado{
+    background-color: aquamarine;
+}
+
 .slide{
     margin-top: 10px;
 }
@@ -17,6 +22,40 @@
     background-color: white;
     border: 3x gainsboro;
     border-radius: 5px;
-    
+
+}
+
+.col{
+    position: relative;
+    background-color: white;
+    color: black;
+    border: 3x gainsboro;
+    border-radius: 5px;
+
+}
+
+.imagen{
+    margin-top: 100px;
+}
+
+.imagen img{
+    height: 100vh;
+}
+
+.Venti{
+    color: black;
+    font-size:medium;
+}
+
+.text-center{
+    margin-top: 10px;
+}
+
+.text-center img{
+    height: 65vh; 
+}
+
+.Precio{
+    color: crimson;
 }
 
