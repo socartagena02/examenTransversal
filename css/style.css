@@ -87,3 +87,23 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.accordionFlushExample{
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-title{
+    color: black;
+}
+
+.carousel-control{
+    color: black;
+}
+
+.prod2{
+    justify-content: center;
+    
+}
