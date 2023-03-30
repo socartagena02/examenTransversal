@@ -63,3 +63,20 @@
 .prod1{
     justify-content: center;
 }
+
+.cardtitle{
+    color: black;   
+}
+
+.cardtext{
+    color: black;
+}
+
+
+.text-center1{
+    color: crimson;
+}
+
+.btn-primary{
+    color: pink;
+}
