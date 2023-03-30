@@ -55,36 +55,11 @@
     color: crimson;
 }
 
-.Venti0{
-    position: relative;
-    background-color: white;
-    color: black;
-    border: 3x gainsboro;
-    border-radius: 5px;
+
+.prod1 img{
+    height: 20vw;
 }
 
-.Venti0{
-    font-size: 50px;
-    line-height: 20px;
-    text-align: center;
-}
-
-.PrecioVentiVision{
-    font-size: 14px;
-    line-height: 20px;
-    text-align: center;
-    color: crimson;
-}
-
-.Venti10 img{
-    margin-top: 100px;
-    height: 65vh;
-    float: left;
-}
-
-.espacio{
-    position: relative;
-    background-color: white;
-    border: 3x gainsboro;
-    border-radius: 5px; 
+.prod1{
+    justify-content: center;
 }
